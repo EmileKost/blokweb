@@ -1,0 +1,40 @@
+/* CSS Document */
+*, *::after, *::before {
+  box-sizing:border-box;
+}
+
+header {
+  background-color: #F4F4F4;
+  display: flex;
+  flex-direction: row;
+}
+
+header img {
+  height: 10%;
+  width: 10%;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333333;
+}
+
+ul {
+  margin-top: 13%;
+  list-style-type: none;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+li {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#voorpagina1 div {
+  background-image: url(images/voorpaginafoto1.jpg);
+}
