@@ -3,16 +3,6 @@
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
-# Intake voor 1e Werkgroep
-Het startniveau ligt bij mij niet superhoog. Html en CSS beheers ik echter na wat opfrissing aardig goed. Javascript is het gene waar ik nog zeker wel moeite mee heb. Ik durf dan ook wel te zeggen dat ik een rode piste niveau ben. Zeker omdat ik coderen stiekem wel heel leuk en interessant vind.
-
-Ik wil mij voornamelijk focussen op de surfaceplane van de website. Dit omdat ik goed visueel wil leren vormgeven doormiddel van Html, CSS en Javascript.
-De website die ik wil gaan namaken is die van de NOS. Dit omdat ik graag het nieuws lees en ik het een website vind met interessante elementen, stijl en textuur.
-
-breakdown schets:
-
-
-
 ## Bronnenlijst
 1. -bron 1-
 2. -bron 2-
@@ -64,13 +54,16 @@ breakdown schets:
 
 ## Intake (week 1)
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+Het startniveau ligt bij mij niet superhoog. Html en CSS beheers ik echter na wat opfrissing aardig goed. Javascript is het gene waar ik nog zeker wel moeite mee heb. Ik durf dan ook wel te zeggen dat ik een rode piste niveau ben. Zeker omdat ik coderen stiekem wel heel leuk en interessant vind.
 
-**Je focus:** -kies uit responsive óf surface plane-
+Ik wil mij voornamelijk focussen op de surfaceplane van de website. Dit omdat ik goed visueel wil leren vormgeven doormiddel van Html, CSS en Javascript.
+De website die ik wil gaan namaken is die van de NOS. Dit omdat ik graag het nieuws lees en ik het een website vind met interessante elementen, stijl en textuur.
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+breakdown schets:
 
 **Screenshot(s):**
+
+(images/breakdownschets.jpeg)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
