@@ -59,6 +59,10 @@ Het startniveau ligt bij mij niet superhoog. Html en CSS beheers ik echter na wa
 Ik wil mij voornamelijk focussen op de surfaceplane van de website. Dit omdat ik goed visueel wil leren vormgeven doormiddel van Html, CSS en Javascript.
 De website die ik wil gaan namaken is die van de NOS. Dit omdat ik graag het nieuws lees en ik het een website vind met interessante elementen, stijl en textuur.
 
+## 2de website idee
+Misschien is de NOS site iets te makkelijk. Ik zat daarom ook te kijken naar
+de site van Spacex. Deze heeft een interessante stijl met aardig veel CSS en Javascript  . Dit zijn dan ook de punten die ik bij mezelf wil verbeteren op het vlak van coderen.
+
 breakdown schets:
 
 **Screenshot(s):**
