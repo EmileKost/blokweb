@@ -67,7 +67,7 @@ breakdown schets:
 
 **Screenshot(s):**
 
-(images/breakdownschets.jpeg)
+![Breakdownschets](images/breakdownschets.jpeg)
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
