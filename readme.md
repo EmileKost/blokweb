@@ -35,16 +35,29 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
+Het coderen is mij niet zo soepel verlopen. Ik heb op een gegeven moment besloten om opnieuw te beginnen en te zorgen dat de site vanaf het eerste
+moment al responsive gaat zijn. Toch heb ik hier nog wel moeite mee en ben
+ik daar nu druk mee bezig. Ik ben nog niet zover maar ben van plan te zorgen
+dat ik dit weekend sowieso de telefoon variant geheel af heb.
+Javascript heb ik tot nu nog niet gebruikt. Wel probeerde ik een nightshift
+toe te  voegen door middel van Javascript. Dit is nog niet gelukt.
+Wat ik nog met  javascript wil proberen toe te voegen is een live temperatuur
+die de NOS ook rechtsboven in het scherm laat zien.
 
--dit ging goed & dit was lastig-
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![homepagina](images/voortgang1.jpeg)
+![artikelpagina](images/voortgang2.jpeg)
+
 
 ### Agenda voor meeting
+1. Wat kan ik op mijn site met Javascript gaan doen?
+2. Hoe krijg ik NOS's manier van responsive voor elkaar met coderen? (dingen komen en dingen verdwijnen met het schalen)
+3. Hoe laat ik de "tour de france" foto inzoomen op zichzelf bij en hoover maar ervoor zorgen dat niet de height en width veranderen?
+4. Is het mogelijk om met Javascript een live tempratuur te displayen in
+de header?
 
--samen met je groepje opstellen-
 
 ### Verslag van meeting
 
